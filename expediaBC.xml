@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BootCamp2019">
+  <test thread-count="5" name="expedia">
+    <classes>
+      <class name="mavenproject.expedia_BC.expedia_BC"/>
+    </classes>
+  </test> <!-- expedia -->
+</suite> <!-- BootCamp2019 -->
